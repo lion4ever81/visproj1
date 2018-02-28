@@ -1,0 +1,14 @@
+	
+
+SELECTION SORT:
+
+Selection sort technique is sorted in two ways one is sorted part[left end] and unsorted part[right end].
+In a set of 'N' elements finding out the location of the minimum element and replacing it with the location of first element.
+
+steps: . set min to location 0
+       . search minumum element in the list
+       . swap with value at location min
+       . increment min to point to next element
+       . repeat until list is sorted.
+
+	
