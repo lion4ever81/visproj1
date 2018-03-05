@@ -191,10 +191,8 @@ needs (see Figure 1.2). While being knowledgeable about all the platform service
 you to be a well-rounded solutions architect, understanding the services and fundamental
 concepts outlined in this book will help prepare you for the AWS Certified Solutions Architect
 – Associate exam.
-![](file://C:/Users/loliyeka/Documents/AWS_Training/Fig1.JPG)
 
-
-
+![](images/Fig1.JPG?raw=true)
 
 # Accessing the Platform
 To access AWS Cloud services, you can use the AWS Management Console, the AWS
@@ -247,7 +245,8 @@ used to help maintain application availability and ensure that the desired numbe
 EC2 instances are running, but it also allows resources to scale in and out to match the
 demands of dynamic workloads. Instead of provisioning for peak load, organizations can
 optimize costs and use only the capacity that is actually needed.
-![](file://C:/Users/loliyeka/Documents/AWS_Training/Fig-2.JPG)
+
+![](images/Fig-2.JPG?raw=true)
 
 
 ## Elastic Load Balancing
@@ -391,12 +390,7 @@ language that can be used to describe all the AWS resources that are necessary f
 workload. Templates can be submitted to AWS CloudFormation and the service will take care
 of provisioning and configuring those resources in appropriate order (see Figure 1.4).
 
-![](file://C:/Users/loliyeka/Documents/AWS_Training/Fig-3.JPG)
-
-
-
-
-
+![](images/Fig-3.JPG?raw=true)
 
 
 ## AWS CloudTrail
