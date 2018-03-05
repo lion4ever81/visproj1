@@ -30,7 +30,7 @@ Cloud services become an operational expense instead of a capital expense.
 While each organization experiences a unique journey to the cloud with numerous benefits,
 six advantages become apparent time and time again, as illustrated in
 
-./ https://github.com/lion4ever81/visproj1/blob/master/images/Fig-0.JPG
+![](images/Fig-0.JPG?raw=true)
 
 
 ## Variable vs. Capital Expense
